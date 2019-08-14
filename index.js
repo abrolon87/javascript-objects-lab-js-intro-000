@@ -36,7 +36,7 @@ delete newObj.foo // true
 
 newObj // {}
 
-obj // { foo: 'bar  
+obj // { foo: 'bar
 
     expect(newObj['prop']).toBe(undefined)
   })
