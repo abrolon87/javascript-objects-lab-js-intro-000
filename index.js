@@ -21,4 +21,3 @@ function destructivelyDeleteFromObjectByKey() {
   delete recipes.key;
   return recipes;
 }
-
