@@ -48,3 +48,4 @@ obj // { foo: 'bar
     expect(obj['prop']).toBe(1)
   })
 })
+*/
